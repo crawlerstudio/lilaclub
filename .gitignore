@@ -1,0 +1,5 @@
+
+build
+*.class
+.svn
+WebRoot/WEB-INF/lib/mysql-connector-java-5.1.18.jar
